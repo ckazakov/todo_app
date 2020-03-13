@@ -1,0 +1,11 @@
+.html, body {
+  background-color: rgba(0, 26, 255, 0.068);
+}
+.todo-app {
+  margin: 2rem auto 0 auto;
+  max-width: 800px;
+}
+
+.top-panel {
+  margin: 1rem 0;
+}
